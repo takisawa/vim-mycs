@@ -9,5 +9,4 @@ endif
 
 let g:colors_name = "mycs"
 
-highlight Cursor guibg=Red
-highlight Comment ctermfg=Red
+highlight Cursor guifg=White guibg=Red
