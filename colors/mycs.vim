@@ -17,4 +17,5 @@ endif
 
 let g:colors_name = "mycs"
 
-highlight Cursor guifg=White guibg=Red
+highlight Normal ctermbg=NONE
+highlight Normal guibg=#f8f8f8
